@@ -49,9 +49,10 @@
   * 🟠 [Dekauto.Angular.Frontend](https://github.com/TOXYGENCY/Dekauto.Angular.Frontend) - Фронтенд: Web-приложение на Angular v19 + NGINX.
 ---
 ### Также в мои проекты входят:
-- Notifier
-  * NotifierNotificationService
-  * NotifierAnalyticsService
-  * NotifierDeliveryWorker
-- 2d_pygame
-- lispp
+- Notifier - пет-проект в виде полнофункционального многосервисного Web-API на `ASP.NET 8 + Redis + RabbitMQ` для отправки произвольных уведомлений
+  * [NotifierNotificationService](https://github.com/TOXYGENCY/NotifierNotificationService) - Cервис агрегации и обработки уведомлений
+  * [NotifierAnalyticsService](https://github.com/TOXYGENCY/NotifierAnalyticsService) - Сервис агрегации и обработки уведомлений
+  * [NotifierDeliveryWorker](https://github.com/TOXYGENCY/NotifierDeliveryWorker) - Сервис доставкм и отчета успешности отправки уведомлений
+
+- [2d_pygame](https://github.com/TOXYGENCY/2d_pygame) - пошаговая 2D-игра на `Python (Pygame)`
+- [lispp](https://github.com/TOXYGENCY/lispp) - информационная система для обучения Python (и не только) на `Angular + PHP`; главы, блоки, параграфы и тесты (4 варианта ответов) +конструктор/редактор всего перечисленного

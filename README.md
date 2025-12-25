@@ -1,11 +1,6 @@
 <h1 align="center"> Привет! 👋 Меня зовут Кирилл</h1>
 <h3 align="center">Имею опыт в разработке бэкенда и фронтенда</h3>
 
-<div align="center"
-  
-  [![*(Тут должен был быть топ языков программирования, но он не загрузился...)*](https://github-readme-stats.vercel.app/api/top-langs/?username=TOXYGENCY&custom_title=У%20меня%20больше%20всего%20кода%20на:)](https://github.com/TOXYGENCY)
-
-</div>
 <h3 align="center">Основной стек технологий разработки:</h3>
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
